@@ -9,7 +9,7 @@
 
 
 **[⬆ Back to Top](#table-of-contents)**
-### Checking-if-variable-has-valid-value
+### Checking if variable has valid value
 ```javascript
 // This code snippet is used to check if a variable has a valid value 
 
