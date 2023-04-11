@@ -2,7 +2,7 @@
 > Click :star:  if you like the project. Pull Request are highly appreciated.
 
 ### Table of Contents
-| No. | Questions |
+| No. | Title |
 |---- | ---------
 |1  | [Checking if a Variable has a Valid Value](#Checking-if-variable-has-valid-value) |
 
