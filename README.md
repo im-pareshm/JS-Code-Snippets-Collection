@@ -10,6 +10,9 @@
 
 
 
+
+
+
 ### Checking if variable has valid value **[⬆ Back to Top](#table-of-contents)**
 ```javascript
 // This code snippet is used to check if a variable has a valid value 
