@@ -9,8 +9,8 @@
 |3  | [Unique Value from Array of Objects](#Unique-Value-from-Array-of-Objects) |
 
 
-**[⬆ Back to Top](#table-of-contents)**
-### Checking if variable has valid value
+
+### Checking if variable has valid value **[⬆ Back to Top](#table-of-contents)**
 ```javascript
 // This code snippet is used to check if a variable has a valid value 
 
@@ -23,7 +23,7 @@ if(Boolean(a)){
 }
 ```
 
-### Unique Objects from Array of Objects
+### Unique Objects from Array of Objects **[⬆ Back to Top](#table-of-contents)**
 ```javascript
 // This code will get you unique object from array of objects by a perticular key
 
@@ -31,7 +31,7 @@ if(Boolean(a)){
 
 ```
 
-### Unique Value from Array of Objects
+### Unique Value from Array of Objects **[⬆ Back to Top](#table-of-contents)**
 ```javascript
 // This code will get you unique value from array of objects by a perticular key
 
