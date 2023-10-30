@@ -20,3 +20,10 @@ if(Boolean(a)){
     // this code will be executed if a has a falsy value like null, undefined, empty string("")
     console.log('a has a invalid value a: ' + a )
 }
+
+**[⬆ Back to Top](#table-of-contents)**
+### Checking if variable has valid value
+```javascript
+// This code will get you unique object from array of objects by a perticular key
+
+[...new Map(array.map(item => [item[Key], item])).values()]
