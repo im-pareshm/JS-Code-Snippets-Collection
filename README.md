@@ -6,7 +6,7 @@
 |---- | ---------
 |1  | [Checking if a Variable has a Valid Value](#Checking-if-variable-has-valid-value) |
 |2  | [Unique Objects from Array of Objects](#Unique-Objects-from-Array-of-Objects) |
-
+|3  | [Unique Value from Array of Objects](#Unique-Value-from-Array-of-Objects) |
 
 
 **[⬆ Back to Top](#table-of-contents)**
