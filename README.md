@@ -28,3 +28,11 @@ if(Boolean(a)){
 // This code will get you unique object from array of objects by a perticular key
 
 [...new Map(array.map(item => [item[Key], item])).values()]
+
+```
+
+### Unique Value from Array of Objects
+```javascript
+// This code will get you unique value from array of objects by a perticular key
+
+[...new Set(data.map(item => item.group))]
